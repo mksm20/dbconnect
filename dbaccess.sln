@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dbaccess", "dbaccess\dbaccess.csproj", "{169902D1-C5EF-4545-8FB3-7FD1527365DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169902D1-C5EF-4545-8FB3-7FD1527365DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169902D1-C5EF-4545-8FB3-7FD1527365DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169902D1-C5EF-4545-8FB3-7FD1527365DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169902D1-C5EF-4545-8FB3-7FD1527365DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F567C2D-5D52-48BC-ACBD-8BDF290F9573}
+	EndGlobalSection
+EndGlobal
