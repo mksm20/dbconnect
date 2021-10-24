@@ -12,7 +12,7 @@ namespace dbaccess
             string queryString = "SELECT * FROM CustomerDevices WHERE CustomerID ='178'";
             Customer a = dbAccesCustom(queryString, connectionString);
             string connectionString2 = "Server = DESKTOP-ODNL8OS; Database = Tracking_FM2_studyproject; User Id = test; Password = password;";
-            string queryString2 = "SELECT * FROM Track WHERE ItemID = " + "'" + a.device_id[1] + "'";
+            string queryString2 = "SELECT * FROM Track WHERE TimeStamp between '2020-10-06' and '2020-10-31' AND ItemID = " + "'" + a.device_id[1] + "'";
             Unit x = DbAccessFM2(connectionString2, queryString2, a);
             for (int i = 0; i < 160; i++)
             {
@@ -37,11 +37,13 @@ namespace dbaccess
                 {
                     int ItemIdOrdinal = reader.GetOrdinal("Address");                    
                     unit.itemId = customer.device_id[1];
+                    int i = 0;
                     while (reader.Read())
                     {
                         unit.address.Add(reader.GetString(ItemIdOrdinal));
+                        i++;
                     }
-                    
+                    Console.WriteLine(i);
                 }
             }
             return unit;
