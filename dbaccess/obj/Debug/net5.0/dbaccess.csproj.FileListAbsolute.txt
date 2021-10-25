@@ -20,3 +20,26 @@ C:\Users\martin mortensen\source\repos\dbaccess\dbaccess\obj\Debug\net5.0\dbacce
 C:\Users\martin mortensen\source\repos\dbaccess\dbaccess\obj\Debug\net5.0\ref\dbaccess.dll
 C:\Users\martin mortensen\source\repos\dbaccess\dbaccess\obj\Debug\net5.0\dbaccess.pdb
 C:\Users\martin mortensen\source\repos\dbaccess\dbaccess\obj\Debug\net5.0\dbaccess.genruntimeconfig.cache
+C:\Users\marti\source\repos\DbConnect2\dbaccess\obj\Debug\net5.0\dbaccess.dll
+C:\Users\marti\source\repos\DbConnect2\dbaccess\obj\Debug\net5.0\ref\dbaccess.dll
+C:\Users\marti\source\repos\DbConnect2\dbaccess\obj\Debug\net5.0\dbaccess.pdb
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\dbaccess.exe
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\dbaccess.deps.json
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\dbaccess.runtimeconfig.json
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\dbaccess.runtimeconfig.dev.json
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\dbaccess.dll
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marti\source\repos\DbConnect2\dbaccess\obj\Debug\net5.0\dbaccess.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\DbConnect2\dbaccess\obj\Debug\net5.0\dbaccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\DbConnect2\dbaccess\obj\Debug\net5.0\dbaccess.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\DbConnect2\dbaccess\obj\Debug\net5.0\dbaccess.AssemblyInfo.cs
+C:\Users\marti\source\repos\DbConnect2\dbaccess\obj\Debug\net5.0\dbaccess.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\DbConnect2\dbaccess\obj\Debug\net5.0\dbaccess.csproj.CopyComplete
+C:\Users\marti\source\repos\DbConnect2\dbaccess\obj\Debug\net5.0\dbaccess.genruntimeconfig.cache
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\ref\dbaccess.dll
+C:\Users\marti\source\repos\DbConnect2\dbaccess\bin\Debug\net5.0\dbaccess.pdb
