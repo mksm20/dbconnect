@@ -30,9 +30,5 @@ namespace dbaccess
             SqlDataReader reader = cmd.ExecuteReader();
             return reader;
         }
-
-
     }
-    
-  
 }
